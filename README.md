@@ -64,12 +64,11 @@ The goal was to train an agent capable of picking up and dropping off passengers
 ## Project Structure
 ```
 📂 Reinforcement-Learning-Taxi-Agent/
+ ├── README.md                                         # Project documentation
  ├── Taxi Reinforcement Learning Final Project.ipynb   # Main notebook
  ├── dqn_taxi.zip                                      # Saved default DQN model (optional)
  ├── dqn_taxi_optimal.zip                              # Saved optimized DQN model (optional)
- ├── README.md                                         # Project documentation
 ```
-
 
 ## Acknowledgements
 - OpenAI Gymnasium for providing the Taxi-v3 environment.
