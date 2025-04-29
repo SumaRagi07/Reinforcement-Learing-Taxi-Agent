@@ -70,7 +70,6 @@ The goal was to train an agent capable of picking up and dropping off passengers
  ├── README.md                                         # Project documentation
 ```
 
----
 
 ## Acknowledgements
 - OpenAI Gymnasium for providing the Taxi-v3 environment.
