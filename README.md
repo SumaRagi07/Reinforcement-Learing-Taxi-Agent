@@ -76,6 +76,5 @@ The goal was to train an agent capable of picking up and dropping off passengers
 - Stable-Baselines3 for simplifying DQN implementation.
 - Project developed as part of coursework at The University of Chicago (2024–2025).
 
----
 
 # 🚖 Happy Reinforcement Learning!
